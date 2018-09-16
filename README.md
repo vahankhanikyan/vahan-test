@@ -24,7 +24,7 @@ As I think it will run on Team CIty, Jenkins like systems, to have the Junit tes
 <tr><td>GET</td><td>/user/byname/:name</td><td>get User by name</td><td></td></tr>
 <tr><td>POST</td><td>/user</td><td>create a new user</td><td><p>Content-Type: application/json</p>
 {
-  "name": "abe5dc09-7069-4524-ad26-b0e5c5919e99",
+  "name": "Vahan",
   "amount": 551.1743742839909
 }</td></tr>
 <tr><td>GET</td><td>/transfer/:senderId/:receiverId/:amount</td><td>transfer money from one user to another</td><td><p></td></tr>
